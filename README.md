@@ -79,7 +79,7 @@ I'm always interested in collaborating on AI/ML projects, exploring new technolo
 
 📧 **Email:** [nourmohamedmahmoud2002@gmail.com](mailto:nourmohamedmahmoud2002@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nour-mohamed-mahmoud-366b88250))
 
 📱 **Phone:** [+20 1551027103](tel:+201551027103)
 
