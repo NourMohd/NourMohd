@@ -6,7 +6,7 @@ I'm a Computer and Communication Engineering graduate from Alexandria University
 
 Currently, I'm a **Machine Learning Teaching Assistant at Alexandria University**, helping students understand machine learning concepts and implement ML algorithms.
 
-- 🔭 **Interests:** Machine Learning, Deep Learning, Computer Vision, NLP, and LLM Applications
+- 🔭 **Interests:** Artificial Intelligence, Software Development, Machine Learning, Deep Learning, Computer Vision, NLP
 - 🧠 **Currently exploring:** Generative AI, RAG systems, and AI agents
 - 💻 **Also experienced in:** Full-stack development and AI application integration
 - 📫 **Contact:** nourmohamedmahmoud2002@gmail.com
@@ -32,7 +32,7 @@ Currently, I'm a **Machine Learning Teaching Assistant at Alexandria University*
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Web Development & Tools**
+**Software Development & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
