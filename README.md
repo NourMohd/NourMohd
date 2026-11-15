@@ -1,6 +1,6 @@
 # Hi, I'm Nour Mohamed 👋
 
-### AI/Machine Learning Engineer
+### AI Engineer | Software Engineer
 
 I'm a Computer and Communication Engineering graduate from Alexandria University, specializing in Artificial Intelligence. I'm interested in building practical AI solutions, developing deep learning models, and integrating AI into real-world applications.
 
